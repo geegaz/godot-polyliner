@@ -525,7 +525,7 @@ size = Vector3( 0.1, 0.1, 1.938 )
 [node name="Spatial" type="Spatial"]
 
 [node name="wormspinner" type="Spatial" parent="."]
-transform = Transform( -0.826295, 0, 0.563217, 0, 0.999999, 0, -0.563211, 0, -0.826304, -0.39561, 0.016, 3.531 )
+transform = Transform( 0.427437, 0, -0.904038, 0, 0.999999, 0, 0.904028, 0, 0.427442, -0.246618, 0.016, 3.531 )
 script = SubResource( 1 )
 mul = 1.59
 

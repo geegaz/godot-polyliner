@@ -362,7 +362,7 @@ mesh = ExtResource( 7 )
 skeleton = NodePath("../..")
 
 [node name="Rotator2" type="Spatial" parent="Scene/demo_TrailFade"]
-transform = Transform( -0.0489849, -0.5, 0.864821, 0.553497, 0.707107, 0.440343, -0.83172, 0.5, 0.242116, 0, 2, 0 )
+transform = Transform( -0.864176, -0.5, 0.0593004, -0.367844, 0.707107, 0.604113, -0.343994, 0.5, -0.795014, 0, 2, 0 )
 script = ExtResource( 9 )
 
 [node name="Trail3D" type="Spatial" parent="Scene/demo_TrailFade/Rotator2"]
