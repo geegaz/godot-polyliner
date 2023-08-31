@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/demo_platform3.exr-dcbda69bf27ece9551706fd9cff054be.stex"
+path="res://.import/Line3D.svg-a71f3577e9a8e7635852b7e976b6a8be.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://addons/godot-polyliner/demos/demo/data/demo_platform3.exr"
-dest_files=[ "res://.import/demo_platform3.exr-dcbda69bf27ece9551706fd9cff054be.stex" ]
+source_file="res://addons/godot-polyliner/Line3D/Line3D.svg"
+dest_files=[ "res://.import/Line3D.svg-a71f3577e9a8e7635852b7e976b6a8be.stex" ]
 
 [params]
 
@@ -19,11 +19,11 @@ compress/lossy_quality=0.7
 compress/hdr_mode=0
 compress/bptc_ldr=0
 compress/normal_map=0
-flags/repeat=false
+flags/repeat=0
 flags/filter=true
 flags/mipmaps=false
 flags/anisotropic=false
-flags/srgb=false
+flags/srgb=2
 process/fix_alpha_border=true
 process/premult_alpha=false
 process/HDR_as_SRGB=false
@@ -31,5 +31,5 @@ process/invert_color=false
 process/normal_map_invert_y=false
 stream=false
 size_limit=0
-detect_3d=false
+detect_3d=true
 svg/scale=1.0

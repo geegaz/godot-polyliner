@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/AllSkyFree_Sky_MoonBurst_Equirect_lowres.png-939a7ce07596f5b9803f1fcffe6b2977.stex"
+path="res://.import/Trail3D.svg-6114ad09eb0c5052d7205b4f1ce69b5f.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://addons/godot-polyliner/demos/demo/assets/textures/AllSkyFree_Sky_MoonBurst_Equirect_lowres.png"
-dest_files=[ "res://.import/AllSkyFree_Sky_MoonBurst_Equirect_lowres.png-939a7ce07596f5b9803f1fcffe6b2977.stex" ]
+source_file="res://addons/godot-polyliner/Trail3D/Trail3D.svg"
+dest_files=[ "res://.import/Trail3D.svg-6114ad09eb0c5052d7205b4f1ce69b5f.stex" ]
 
 [params]
 

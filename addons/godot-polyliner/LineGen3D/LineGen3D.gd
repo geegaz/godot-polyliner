@@ -1,6 +1,5 @@
 tool
 extends Resource
-
 class_name LineGen3D
 
 var immediate_canvas : ImmediateGeometry = null
@@ -9,7 +8,7 @@ var render_mode = Mesh.PRIMITIVE_TRIANGLES
 var uv_scale = 1.0
 
 var _sf = SurfaceTool.new()
-var _is = ImmediateSurface.new()
+# var _is = ImmediateSurface.new()
 
 # Draws a line from an array of Transforms or null values.
 # p = array of Transforms

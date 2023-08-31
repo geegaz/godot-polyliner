@@ -1,3 +1,4 @@
+tool
 extends Spatial
 
 const AXES: Array = [

@@ -2,12 +2,11 @@
 
 [ext_resource path="res://addons/godot-polyliner/shaders/line_glow.gdshader" type="Shader" id=1]
 [ext_resource path="res://addons/godot-polyliner/Line3D/Line3D.gd" type="Script" id=2]
-[ext_resource path="res://addons/godot-polyliner/Line3D/LinePath3D.gd" type="Script" id=3]
+[ext_resource path="res://addons/godot-polyliner/LinePath3D/LinePath3D.gd" type="Script" id=3]
 [ext_resource path="res://addons/godot-polyliner/Trail3D/Trail3D.gd" type="Script" id=4]
 [ext_resource path="res://addons/godot-polyliner/demos/ropetesting/ropetest.gd" type="Script" id=5]
 [ext_resource path="res://addons/godot-polyliner/shaders/line_fade.gdshader" type="Shader" id=6]
 [ext_resource path="res://addons/godot-polyliner/shaders/parallax/raymarch_xmaslightbulbs.gdshader" type="Shader" id=7]
-
 
 [sub_resource type="ProceduralSky" id=1]
 sky_top_color = Color( 0.219608, 0.219608, 0.219608, 1 )
@@ -384,10 +383,10 @@ shader_param/alpha_curve = 0.5
 
 [sub_resource type="ShaderMaterial" id=29]
 shader = ExtResource( 1 )
-shader_param/tangent_facing = false
-shader_param/rounded = true
 shader_param/line_width = 0.0
 shader_param/glow_width = 0.4
+shader_param/tangent_facing = false
+shader_param/rounded = true
 shader_param/color = Color( 1, 1, 1, 1 )
 shader_param/curve = 0.2
 

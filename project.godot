@@ -33,7 +33,7 @@ _global_script_class_icons={
 [application]
 
 config/name="Polyliner"
-run/main_scene="res://addons/godot-polyliner/demos/demo/Spatial.tscn"
+run/main_scene="res://addons/godot-polyliner/demos/demo/Demo.tscn"
 config/icon="res://icon.png"
 
 [audio]
